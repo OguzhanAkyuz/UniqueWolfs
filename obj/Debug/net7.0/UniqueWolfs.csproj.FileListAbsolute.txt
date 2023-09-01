@@ -1,0 +1,14 @@
+C:\Users\oguzh\source\repos\UniqueWolfs\UniqueWolfs\bin\Debug\net7.0\UniqueWolfs.exe
+C:\Users\oguzh\source\repos\UniqueWolfs\UniqueWolfs\bin\Debug\net7.0\UniqueWolfs.deps.json
+C:\Users\oguzh\source\repos\UniqueWolfs\UniqueWolfs\bin\Debug\net7.0\UniqueWolfs.runtimeconfig.json
+C:\Users\oguzh\source\repos\UniqueWolfs\UniqueWolfs\bin\Debug\net7.0\UniqueWolfs.dll
+C:\Users\oguzh\source\repos\UniqueWolfs\UniqueWolfs\bin\Debug\net7.0\UniqueWolfs.pdb
+C:\Users\oguzh\source\repos\UniqueWolfs\UniqueWolfs\obj\Debug\net7.0\UniqueWolfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\source\repos\UniqueWolfs\UniqueWolfs\obj\Debug\net7.0\UniqueWolfs.AssemblyInfoInputs.cache
+C:\Users\oguzh\source\repos\UniqueWolfs\UniqueWolfs\obj\Debug\net7.0\UniqueWolfs.AssemblyInfo.cs
+C:\Users\oguzh\source\repos\UniqueWolfs\UniqueWolfs\obj\Debug\net7.0\UniqueWolfs.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\UniqueWolfs\UniqueWolfs\obj\Debug\net7.0\UniqueWolfs.dll
+C:\Users\oguzh\source\repos\UniqueWolfs\UniqueWolfs\obj\Debug\net7.0\refint\UniqueWolfs.dll
+C:\Users\oguzh\source\repos\UniqueWolfs\UniqueWolfs\obj\Debug\net7.0\UniqueWolfs.pdb
+C:\Users\oguzh\source\repos\UniqueWolfs\UniqueWolfs\obj\Debug\net7.0\UniqueWolfs.genruntimeconfig.cache
+C:\Users\oguzh\source\repos\UniqueWolfs\UniqueWolfs\obj\Debug\net7.0\ref\UniqueWolfs.dll
